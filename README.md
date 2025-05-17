@@ -2,6 +2,8 @@
 
 ![Image of your image](capture2.png)
 
+Download apk file: https://drive.google.com/file/d/1AClXNbvbffOZpa84F7wX8wQnR7esqEDQ/view?usp=sharing
+
 ToDo app for Android, developed with React Native, Expo and Genymotion(Android Emulator).
 
 Visual Studio Code Extensions: Babel JS, React Native Tools
